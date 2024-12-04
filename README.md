@@ -1,6 +1,6 @@
-## Hypotheek/Ben
+# Hypotheek/Ben
 
-# Student HBO-ICT op de HU (Hogsechool Utrecht)
+## Student HBO-ICT op de HU (Hogsechool Utrecht)
 
 Bezig met Project Steam
 
