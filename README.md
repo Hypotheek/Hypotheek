@@ -2,7 +2,6 @@
 
 ## Student HBO-ICT op de HU (Hogsechool Utrecht)
 
-Bezig met Project Steam
 
 <!--
 **Hypotheek/Hypotheek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
